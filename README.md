@@ -1,4 +1,5 @@
-**`Coder and computer science enthusiast`**
+<h4>Hello, welcome to my Github Profile! 👋</h4>
 
-<p> Hi, I'm Shindanai Sudprasert. I usually work on web development or machine learning projects. Outside of coding, I enjoy learning new things and traveling. I'm currently a senior student in high school.
-</p>
+<p>I'm <a href="https://github.com/fiddleswe">Shindanai</a>, a student developer based in Thailand.</p>
+
+<p>I'm currently building a web project using a many of modern technologies stack, turning my ideas into a functional and accessible user interface for fun.</p>
