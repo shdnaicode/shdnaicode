@@ -2,4 +2,4 @@
 
 <p>I'm <a href="https://github.com/shdnaicode">Shindanai</a>, a student developer based in Thailand.</p>
 
-<p>I'm currently building a project using a many of modern technologies stack, turning my ideas into a functional and accessible user interface for fun.</p>
+<p>I'm computer euthuestist and particularly interested in computer science and also computer programming using Javascript and C++ to develop software tools.</p>
