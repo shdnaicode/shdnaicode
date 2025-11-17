@@ -2,4 +2,4 @@
 
 <p>I'm <a href="https://github.com/shdnaicode">Shindanai</a>, a student developer.</p>
 
-<p>I'm computer euthuestist and particularly interested in computer science and mathematics. I'm using Javascript and C++ to develop software tools.</p>
+<p>I'm computer euthuestist and particularly interested in computer science and mathematics. I'm using Javascript to develop software tools and web service.</p>
